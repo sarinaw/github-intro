@@ -4,7 +4,7 @@ Pick one of the files from either the Arduino or Processing directory (folder) a
 
 
 1.  Copy the whole thing
-2.  Create a new file in this directory named, "LastName_FileName.ino"
+2.  Create a new file in this directory named, /"LastName_FileName.ino/"
 3.  Add comments to that code explaining what it does.  You add comments to Arduino and Processing by simply 
     writing a line of code with two "//" in front of it... see the next line for an example
     
