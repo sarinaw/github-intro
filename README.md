@@ -3,15 +3,15 @@
 Pick one of the files from either the Arduino or Processing directory (folder) and do the following:
 
 
-1.  Copy the whole thing
+1.  Fork this repo: https://github.com/inventioneering/github-intro (short for repository... which is what we call projects in GitHub).  See this for help: https://help.github.com/articles/fork-a-repo/
 
-2.  Create a new file in this directory named, "LastName_FileName.ino"
+2.  Pick a file in either the arduino or processing directories (what we call folders in GitHub) and add comments to it.  
 
-3.  Add comments to that code explaining what it does.  You add comments to Arduino and Processing by simply 
-    writing a line of code with two "//" in front of it... see the next line for an example
+3.  Commit your changes (there is a green button at the bottom after that you can press after you've made your changes)
+
+4.  Format your comments like below:
     
     `// this is my example comment.  You can put them anywhere and they get skipped` <br />
     `// by the compiler when you run them on the arduino so it won't affect your code` <br />
    `// at all.  We use them so humans better understand code machines just ignore them.` <br />
 
-4.  Create an issue to let me know its done and you'd like me to check it.
